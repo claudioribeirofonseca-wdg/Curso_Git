@@ -12,6 +12,7 @@ namespace _101_Salvando_versões_comandos_add_commit_status_log
         {
             Console.WriteLine("Olá Mundo...!");
             Console.WriteLine("Bom dia...!");
+            Console.WriteLine("Como voce esta hoje?");
             Console.ReadLine();
         }
     }
