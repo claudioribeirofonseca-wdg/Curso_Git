@@ -10,6 +10,9 @@ namespace _101_Salvando_versões_comandos_add_commit_status_log
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá Mundo...!");
+            Console.WriteLine("Bom dia...!");
+            Console.ReadLine();
         }
     }
 }
